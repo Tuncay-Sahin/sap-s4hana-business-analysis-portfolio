@@ -8,7 +8,7 @@ This module focuses on Business Process Re-engineering (BPR), Gap Analysis, and 
 
 > *Below is the target-state blueprint engineered to streamline laboratory reagent lifecycle execution and enforce strict automated usage blocks:*
 
-![BPMN Process Flow](./Gemini_Generated_Image_h53zdh53zdh5.png)
+! [BPMN Process Flow][def]
 
 ---
 
@@ -45,3 +45,5 @@ To maintain maximum professional audit standards, all process models and analysi
 During this modeling stage, current operational friction was re-engineered into structured sub-processes to satisfy system governance and segregation of duties (SoD):
 * **Business Process Modeling & Analyst:** Maps the cross-functional swimlanes, validating "As-Is" data gaps against target "To-Be" digital threads[cite: 2].
 * **SAP Systems Architect:** Ensures the BPMN workflows align with core **SAP Fiori UI** execution states and **SAP Solution Manager** data models[cite: 1, 2].
+
+[def]: ./Gemini_Generated_Image_h53zdh53zdh5.png
