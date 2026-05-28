@@ -6,8 +6,6 @@
 
 Welcome to my professional SAP Business Analysis portfolio. This repository showcases a comprehensive, end-to-end (E2E) compilation of Business Analysis artifacts, Enterprise Architecture frameworks, and Strategic Solution Designs. 
 
-# SAP S/4HANA Business Analysis & Strategic Solution Portfolio
-
 This portfolio showcases my experience in business analysis, process modeling (BPMN), and strategic solution design for SAP S/4HANA, with a focus on case studies and real-world inspired examples. The repository is intended as a demonstration of my analytical and strategic skills rather than software development expertise.
 
 ## Suitability & Competency Mapping Table
