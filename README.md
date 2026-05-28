@@ -6,6 +6,35 @@
 
 Welcome to my professional SAP Business Analysis portfolio. This repository showcases a comprehensive, end-to-end (E2E) compilation of Business Analysis artifacts, Enterprise Architecture frameworks, and Strategic Solution Designs. 
 
+# SAP S/4HANA Business Analysis & Strategic Solution Portfolio
+
+This portfolio showcases my experience in business analysis, process modeling (BPMN), and strategic solution design for SAP S/4HANA, with a focus on case studies and real-world inspired examples. The repository is intended as a demonstration of my analytical and strategic skills rather than software development expertise.
+
+## Suitability & Competency Mapping Table
+
+| Recruitment Criteria / Requirements          | Where Addressed in Portfolio                         | Description                                      |
+|----------------------------------------------|------------------------------------------------------|--------------------------------------------------|
+| Business analysis knowledge                  | `/01-Process-Analysis/`                              | Example analyses on different business scenarios  |
+| BPMN process modeling                        | `/02-BPMN-Diagrams/`                                 | BPMN 2.0 standard diagrams                       |
+| Strategic solution design (solution design)  | `/03-Solution-Design/`                               | SAP S/4HANA solution alternatives and architectures|
+| Case study analysis                          | `/04-Case-Studies/` and documentation                | Realistic business cases with explanations        |
+| Documentation skills                         | Detailed explanations and README files in each folder | Clear and systematic documentation               |
+| SAP S/4HANA know-how                         | Across all content                                   | Focus on SAP processes and solutions              |
+
+## Portfolio Summary
+
+- **Realistic scenarios and case studies:** End-to-end business process analysis, BPMN 2.0 modeling, and solution proposals tailored for SAP S/4HANA.
+- **Documentation:** Explanatory documents, diagrams, and presentation files for each section.
+- **My Role:** Business Analyst, Solution Designer, and Process Analyst.
+
+## Intended Use
+
+This portfolio is prepared to demonstrate my business analysis, process modeling, and solution design skills. As it does not include software code, it is best suited for application to analysis, design, or process management positions where those capabilities are required.
+
+---
+
+**Note:** For further information or clarification on any section of this portfolio, feel free to get in touch.
+
 The projects detailed herein are developed through rigorous, real-world enterprise scenarios—specifically focusing on supply chain optimizations (**GreenHarvest Organics**) and compliant inventory management architectures (**Laboratory Reagent Tracking Systems**).
 
 ---
