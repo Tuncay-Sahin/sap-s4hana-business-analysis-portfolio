@@ -2,47 +2,27 @@
 
 [![SAP S/4HANA](https://img.shields.io/badge/SAP-S%2F4HANA-blue?style=flat-square&logo=sap)](https://www.sap.com/)
 [![Methodology](https://img.shields.io/badge/Methodology-SAP%20Activate-orange?style=flat-square)](https://www.sap.com/)
-[![Documentation](https://img.shields.io/badge/Documentation-English-green?style=flat-square)](./)
 
 Welcome to my professional SAP Business Analysis portfolio. This repository showcases a comprehensive, end-to-end (E2E) compilation of Business Analysis artifacts, Enterprise Architecture frameworks, and Strategic Solution Designs. 
 
-This portfolio showcases my experience in business analysis, process modeling (BPMN), and strategic solution design for SAP S/4HANA, with a focus on case studies and real-world inspired examples. The repository is intended as a demonstration of my analytical and strategic skills rather than software development expertise.
+This portfolio maps my hands-on experience in requirements engineering, business process modeling (BPMN 2.0), and strategic solution design for SAP S/4HANA, with a focus on case studies and real-world inspired enterprise scenarios[cite: 1, 2, 3]. 
 
-## Suitability & Competency Mapping Table
-
-| Recruitment Criteria / Requirements          | Where Addressed in Portfolio                         | Description                                      |
-|----------------------------------------------|------------------------------------------------------|--------------------------------------------------|
-| Business analysis knowledge                  | `/01-Process-Analysis/`                              | Example analyses on different business scenarios  |
-| BPMN process modeling                        | `/02-BPMN-Diagrams/`                                 | BPMN 2.0 standard diagrams                       |
-| Strategic solution design (solution design)  | `/03-Solution-Design/`                               | SAP S/4HANA solution alternatives and architectures|
-| Case study analysis                          | `/04-Case-Studies/` and documentation                | Realistic business cases with explanations        |
-| Documentation skills                         | Detailed explanations and README files in each folder | Clear and systematic documentation               |
-| SAP S/4HANA know-how                         | Across all content                                   | Focus on SAP processes and solutions              |
-
-## Portfolio Summary
-
-- **Realistic scenarios and case studies:** End-to-end business process analysis, BPMN 2.0 modeling, and solution proposals tailored for SAP S/4HANA.
-- **Documentation:** Explanatory documents, diagrams, and presentation files for each section.
-- **My Role:** Business Analyst, Solution Designer, and Process Analyst.
-
-## Intended Use
-
-This portfolio is prepared to demonstrate my business analysis, process modeling, and solution design skills. As it does not include software code, it is best suited for application to analysis, design, or process management positions where those capabilities are required.
+>  **Intended Use Note:** This repository is intended as a strict demonstration of my analytical, process modeling, and strategic blueprinting capabilities rather than software development expertise. It contains no codebase but hosts complete functional specifications, spreadsheets, and deployment frameworks.
 
 ---
 
-**Note:** For further information or clarification on any section of this portfolio, feel free to get in touch.
+## Recruitment Suitability & Competency Mapping Table
 
-The projects detailed herein are developed through rigorous, real-world enterprise scenarios—specifically focusing on supply chain optimizations (**GreenHarvest Organics**) and compliant inventory management architectures (**Laboratory Reagent Tracking Systems**).
+To streamline executive technical review, the matrix below cross-references core business analysis recruitment criteria with verified deliverables hosted in this portfolio[cite: 1, 2, 3]:
 
----
-
-## Core Frameworks & Methodologies
-The business cases implemented across this portfolio strictly leverage enterprise-grade frameworks:
-* **Digital Transformation:** SAP S/4HANA Transition Strategy
-* **User Experience:** SAP Fiori UX (Role-Based Deployment)
-* **Implementation & Governance:** SAP Activate Methodology & SAP Solution Manager (SolMan)
-* **Compliance Standards:** GRC (Governance, Risk, and Compliance) with strict Data Security Protocols
+| Recruitment Criteria / Requirements | Portfolio Directory Location | Artifact Description & Operational Scope |
+| :--- | :--- | :--- |
+| **Business Analysis Knowledge** | `01_Foundations of Business Analysis` | Enterprise problem definition, strategic drivers, and business case structures. |
+| **BPMN Process Modeling** | `03_Business Process Modeling and Analysis` | Standardized BPMN 2.0 diagrams mapping optimized "To-Be" states. |
+| **Strategic Solution Design** | `04_Strategic Analysis and Solution Design` | SAP S/4HANA solution alternatives, cost-benefit analyses, and architecture. |
+| **Case Study Analysis** | Across All Modules (`01` to `04`) | Realistic business cases (GreenHarvest Organics, Laboratory Reagent Tracking)[cite: 1, 2]. |
+| **Documentation & Formats** | Multi-Format Repositories (`.md`, `.pdf`, `.docx`, `.xlsx`) | Clear, systematic folder structures with complete stakeholder viewability[cite: 1, 2, 3]. |
+| **SAP S/4HANA Know-how** | Integrated throughout all documents | Enterprise capability mapping across core ERP transaction modules (MM-IM, WM, SD). |
 
 ---
 
@@ -50,7 +30,7 @@ The business cases implemented across this portfolio strictly leverage enterpris
 
 ### [01. Foundations of Business Analysis](./01_Foundations%20of%20Business%20Analysis)
 * **Focus:** Enterprise Problem Definition, Stakeholder Alignment, and Business Case Evaluation.
-* **Scenario:** Identifying core supply chain/perishable inventory vulnerabilities to justify migrating legacy workflows to SAP S/4HANA.
+* **Scenario:** Identifying core supply chain and perishable inventory vulnerabilities to justify migrating legacy workflows to SAP S/4HANA.
 * **Phase:** SAP Activate Lifecycle — *Discover & Prepare Phases*.
 
 ### [02. Requirements Gathering and Documentation](./02_Requirements%20Gathering%20and%20Documentation)
@@ -58,21 +38,21 @@ The business cases implemented across this portfolio strictly leverage enterpris
 * **Scenario:** Translating complex, manual laboratory operations into highly structured Agile User Stories and detailed Functional Requirements (FR-Matrix).
 
 ### [03. Business Process Modeling and Analysis](./03_Business%20Process%20Modeling%20and%20Analysis)
-* **Focus:** Business Process Re-engineering (BPR), Gap Analysis, and "As-Is" vs. "To-Be" Blueprinting.
-* **Scenario:** Visualizing and optimizing compliant inventory workflows using standardized **BPMN 2.0** process flows.
+* **Focus:** Business Process Re-engineering (BPR), Gap Analysis, and "As-Is" vs. "To-Be" Blueprinting[cite: 2].
+* **Scenario:** Visualizing and optimizing compliant inventory workflows using standardized BPMN 2.0 process flows[cite: 2].
 
 ### [04. Strategic Analysis and Solution Design](./04_Strategic%20Analysis%20and%20Solution%20Design)
-* **Focus:** SAP Enterprise Security Architecture, Value Proposition Metrics, and Role-Based Access Control (RBAC).
-* **Scenario:** Architecting secure system landscapes and high-level technical blueprints mapping specialized enterprise personas: **SAP Security Analyst**, **SAP Compliance Officer**, and **SAP Data Auditor**.
+* **Focus:** SAP Enterprise Security Architecture, Value Proposition Metrics, and Role-Based Access Control (RBAC)[cite: 2].
+* **Scenario:** Architecting secure system landscapes and high-level technical blueprints mapping specialized enterprise personas: **SAP Security Analyst**, **SAP Compliance Officer**, and **SAP Data Auditor**[cite: 2].
 
 ---
 
 ## Technical Skill Matrix & Competencies
 
-* **ERP Systems:** SAP S/4HANA (MM-IM, WM, SD modules), SAP Solution Manager
-* **Business Analysis:** Requirements Gathering, Gap Analysis, User Stories, Acceptance Criteria (Agile/Scrum)
-* **Process Modeling:** BPMN 2.0 Standard, Process Mapping, Functional Specifications
-* **Security & Auditing:** Role-Based Access Control (RBAC), Data Security, Regulatory Compliance
+* **ERP Systems:** SAP S/4HANA (MM-IM, Warehouse Management, Sales & Distribution), SAP Solution Manager (SolMan)
+* **Business Analysis:** Requirements Elicitation, MoSCoW Prioritization, Agile User Stories, Acceptance Criteria (Agile/Scrum)[cite: 1, 2]
+* **Process Modeling:** BPMN 2.0 Standard, Process Mapping, Functional Specifications, As-Is / To-Be Diagrams[cite: 2]
+* **Security & Auditing:** Role-Based Access Control (RBAC), Data Security, Regulatory Compliance, GRC Frameworks[cite: 1, 2]
 
 ---
 *Note: All documentation, metrics, and deliverables within this repository are structured chronologically to mirror the rigorous execution of an actual SAP enterprise system implementation.*
