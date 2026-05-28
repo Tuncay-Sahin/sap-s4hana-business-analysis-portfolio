@@ -12,7 +12,7 @@ This portfolio maps my hands-on experience in requirements engineering, business
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Recruitment Suitability & Competency Mapping](#recruitment-suitability--competency-mapping-table)
 - [Portfolio Architecture & Project Modules](#portfolio-architecture--project-modules)
